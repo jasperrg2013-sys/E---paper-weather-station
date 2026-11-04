@@ -1,1 +1,3 @@
-A weather station based of an esp32 xiao and an e-paper display and board, this design shows a basic api pulling weather information
+This is my custom desktop weather station; it is essentially
+A simple api weather station that uses an ESP32 Xiao board with an e-paper control board and an e-paper display
+Please enjoy my project! You can find it on Half Life Hack Club
